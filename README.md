@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+___Welcome to my little playground, where I have to summit my progress. Thx for watching!___
+
+
 
 <!--
 **Pondworth/Pondworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
