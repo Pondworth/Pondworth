@@ -1,8 +1,13 @@
 # Hi there 👋
 ___Welcome to my little playground, where I have to summit my progress. Thx for watching!___
 
+<a href="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&theme=solarized-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+</a>
+</br>
+</br>
 
-
+[![Views](https://komarev.com/ghpvc/?username=Pondworth&color=A70000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pondworth)
 <!--
 **Pondworth/Pondworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
