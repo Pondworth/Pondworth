@@ -7,7 +7,7 @@ ___Welcome to my little playground, where I have to summit my progress. Thx for 
 </br>
 </br>
 
-![Twitch Status](https://img.shields.io/twitch/status/SayuriRosa?label=SayuriRosa&logo=Twitch&labelColor=9b0505&style=for-the-badge)
+[![Twitch Status](https://img.shields.io/twitch/status/SayuriRosa?label=SayuriRosa&logo=Twitch&labelColor=9b0505&style=for-the-badge)](https://www.twitch.tv/sayurirosa)
 
 [![Views](https://komarev.com/ghpvc/?username=Pondworth&color=A70000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pondworth)
 
