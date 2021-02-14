@@ -7,7 +7,11 @@ ___Welcome to my little playground, where I have to summit my progress. Thx for 
 </br>
 </br>
 
+![Twitch Status](https://img.shields.io/twitch/status/SayuriRosa?label=SayuriRosa&logo=Twitch&labelColor=9b0505&style=for-the-badge)
+
 [![Views](https://komarev.com/ghpvc/?username=Pondworth&color=A70000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pondworth)
+
+
 <!--
 **Pondworth/Pondworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
