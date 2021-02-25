@@ -1,5 +1,5 @@
 # Hi there 👋
-___Welcome to my little playground, where I have to summit my progress. Thx for watching!___
+___Welcome to my little playground, just a starter in c#, where I have to summit my progress. Thx for watching!___
 
 <a href="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&theme=solarized-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
