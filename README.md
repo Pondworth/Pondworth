@@ -1,15 +1,7 @@
-# Hi there 👋
-___Welcome to my little playground, just a starter in c#, where I have to summit my progress. Thx for watching!___
-
-<a href="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&theme=solarized-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-</a>
-</br>
-</br>
-
-[![Twitch Status](https://img.shields.io/twitch/status/SayuriRosa?label=SayuriRosa&logo=Twitch&labelColor=9b0505&style=for-the-badge)](https://www.twitch.tv/sayurirosa)
-
-[![Views](https://komarev.com/ghpvc/?username=Pondworth&color=A70000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pondworth)
+| Hi there 👋   | Nice to meet you!          |
+| ------------- |:-------------:|
+| Welcome to my little playground, <p>just a starter in c#, <p>where I have to summit my progress. <p>Thx for watching!| ![alt text](https://pondworth.de/Github/miinimi200.png "Just Pondworth") |
+|[![Twitch Status](https://img.shields.io/twitch/status/SayuriRosa?label=SayuriRosa&logo=Twitch&labelColor=9b0505&style=for-the-badge)](https://www.twitch.tv/sayurirosa)<p>[![Views](https://komarev.com/ghpvc/?username=Pondworth&color=A70000&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pondworth)|<a href="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&theme=solarized-dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pondworth&show_icons=true&include_all_commits=true&count_private=true&theme=react" /></a><p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pondworth&layout=compact&theme=react&card_width=445&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)<p>excludes html |
 
 
 <!--
