@@ -1,6 +1,10 @@
 | Hi there 👋   | Nice to meet you!          |
 | ------------- |:-------------:|
-| Welcome to my little playground, <p>just a starter in c#, <p>where I have to summit my progress. <p>Thx for watching!| ![alt text](https://pondworth.de/file/i/b5f51151d862152.png "Just Pondworth") | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pondworth&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![Pondworth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pondworth&show_icons=true&theme=radical)
+| Welcome to my little playground, <p>just a starter in c#, <p>where I have to summit my progress. <p>Thx for watching!| ![alt text](https://pondworth.de/file/i/b5f51151d862152.png "Just Pondworth") 
+| ![Pondworth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pondworth&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pondworth&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+ 
 
 
 <!--
