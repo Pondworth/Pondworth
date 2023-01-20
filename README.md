@@ -1,12 +1,9 @@
 | Hi there 👋   | Nice to meet you!          |
 | ------------- |:-------------:|
-| Welcome to my little playground, <p>just a starter in c#, <p>where I have to summit my progress. <p>Thx for watching!| ![alt text](https://pondworth.de/file/i/b5f51151d862152.png "Just Pondworth") 
+| Welcome to my little playground, <p>just a starter in c#, <p>Thx for watching! <p>🧊 Minecraft Modpack Language Changer <p>🕹️ Retro computer lover and hoarder (taken from him) <p>⌨ Coding noob and eternal learner <p>I enjoy working on little mini Games in the future <p>🎉 Fun-Fact: I love music and my husband| ![alt text](https://pondworth.de/file/i/b5f51151d862152.png "Just Pondworth") 
 | ![Pondworth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pondworth&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pondworth&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-
  
-
-
 <!--
 **Pondworth/Pondworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
